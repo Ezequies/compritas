@@ -1,0 +1,7 @@
+{
+  "name": "compritas-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
